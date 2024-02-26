@@ -72,7 +72,6 @@ int main()
         case 5:
             printf("\n thank you for using calculator!");
             exit(0);
-            break;
         default:
             printf("\n invalid choice");
             break;
